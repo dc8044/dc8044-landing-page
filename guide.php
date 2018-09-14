@@ -90,10 +90,6 @@
                     <span>forensics, certifications in cybersec</span>
                 </div>
                 <div class="guide-members-row">
-                    <span>@nob_dy</span>
-                    <span>application security</span>
-                </div>
-                <div class="guide-members-row">
                     <span>@vxxtl</span>
                     <span>cryptography</span>
                 </div>
