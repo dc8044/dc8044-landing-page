@@ -21,7 +21,11 @@
       </header>
 
       <main role="main" class="inner cover">
-        <h1 class="cover-heading hacked hacked-title">DC8044 Kyiv</h1>
+        <div id=glitch">
+          <div class="glitch-msg cover-heading hacked hacked-title">DC8044_Kyiv
+            <div class="glitch-msg-eff">DC8044_Kyiv</div>
+          </div>
+        </div>
         <p class="hacked hacked-sub">Hack all the things</p>
         <p class="lead hacked hacked-social">
             <a href="https://www.facebook.com/DC8044/">Facebook</a> | <a href="https://twitter.com/DC8044_Cr3w">Twitter</a> | <a href="https://t.me/DC8044">Telegram</a> | <a href="https://github.com/dc8044">Github</a>
