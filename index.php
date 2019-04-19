@@ -17,7 +17,7 @@
 
 
 <main role="main" class="main_container inner cover">
-    <img src="wp-content/themes/dc8044/X_pic.png" alt="" class="img-fluid main_img">
+    <img src="wp-content/themes/dc8044/LOGO_GLITCHED.png" alt="" class="img-fluid main_img">
 
     <div id=glitch">
         <div class="glitch-msg cover-heading hacked hacked-title">DC8044_Kyiv
@@ -28,9 +28,9 @@
     <p class="lead hacked hacked-social">
         <a href="https://www.facebook.com/DC8044/">Facebook</a> | <a
             href="https://twitter.com/DC8044_Cr3w">Twitter</a> | <a href="https://t.me/DC8044">Telegram</a> | <a
-            href="https://github.com/dc8044">Github</a>
+            href="https://github.com/dc8044">Github</a> |  <a href="guide.php">Guide</a>
     </p>
-    <a href="./guide.php">GUIDE</a>
+
 </main>
 
 </body>

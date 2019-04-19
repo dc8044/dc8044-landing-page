@@ -56,7 +56,7 @@
 
 </div>
 <footer>
-    <a href="./index.php" class="link_main">
+    <a href="index.php" class="link_main">
         MAIN PAGE
     </a>
     <img src="wp-content/themes/dc8044/X_pic.png" alt="" class="img-fluid main_img">

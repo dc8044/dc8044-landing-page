@@ -16,7 +16,7 @@ body {
 
 @font-face {
     font-family: Hacked;
-    src: url(https://dc8044.com/wp-content/themes/dc8044/hacked.ttf);
+    src: url('./hacked.ttf');
 
     /* http://watchdogsfont.com by David Libeau */
 }
@@ -204,6 +204,7 @@ footer {
 footer .link_main {
     font-weight: 500;
     font-size: 25px;
+    font-family: "Hacked";
 }
 
 .guide-page .main_img {
