@@ -21,7 +21,7 @@
 .radioplayer{
   background: #F4F4F4;
   padding: 20px;
-  width: 500px;
+  width: 352px;
   height: 109px;
   box-shadow: #111 0px 1px 50px;
   border-radius:4px;
@@ -29,7 +29,7 @@
   background-repeat:no-repeat !important;
   background-size: cover !important;
   overflow: hidden;
-  margin-top: 100px;
+  margin: 100px 0px;
 
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -45,7 +45,7 @@
   position: relative;
   top: 30px;
   text-align: left;
-  margin-left: 6.5%;
+  margin-left: 11%;
   position: relative;
   z-index: 2;
   font-size:50px;
@@ -95,7 +95,7 @@
 .radioco-information{
   display: block;
   position: relative;
-  width: 340px;
+  width: 200px;
   color:#fff;
   z-index: 1;
   float: right;
