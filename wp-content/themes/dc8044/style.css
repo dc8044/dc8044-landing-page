@@ -32,6 +32,11 @@ body {
 .hacked-social {
     padding-top: 3rem;
     font-size: 1rem;
+    text-align: center;
+}
+
+.radio {
+    font-size: 32px;
 }
 
 .hacked-sub {

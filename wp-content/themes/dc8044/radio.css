@@ -1,0 +1,146 @@
+.glitch-radio-msg-eff::before, .glitch-radio-msg-eff-left::before {
+    content: '44WAV-E' !important;
+}
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+.radioco-playButton-playing:before{
+    font-family: 'FontAwesome', sans-serif;
+  content: "\f04b";
+}
+
+.radioco-playButton-paused:before{
+    font-family: 'FontAwesome', sans-serif;
+  content:"\f04c";
+}
+
+.radioplayer{
+  background: #F4F4F4;
+  padding: 20px;
+  width: 500px;
+  height: 109px;
+  box-shadow: #111 0px 1px 50px;
+  border-radius:4px;
+  background-position:center center !important;
+  background-repeat:no-repeat !important;
+  background-size: cover !important;
+  overflow: hidden;
+  margin-top: 100px;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.radioco-playButton{
+  box-shadow: #111 1px 1px 10px;
+  color: #fff;
+  position: relative;
+  top: 30px;
+  text-align: left;
+  margin-left: 6.5%;
+  position: relative;
+  z-index: 2;
+  font-size:50px;
+}
+
+.radioco-playButton:active{
+  color:#ccc;
+}
+
+.radioco-playButton-playing{
+  font-family: "controls";
+  position: absolute;
+  text-size:150%;
+  text-shadow:#333 0px 0px 15px;
+}
+
+
+.radioco-playButton-paused{
+  font-family: "controls";
+  position: absolute;
+  text-size:150%;
+  text-shadow:#333 0px 0px 15px;
+}
+
+
+.radioco-image{
+  vertical-align: middle;
+  margin-left: -20px;
+  margin-top: -20px;
+  position: relative;
+  z-index: 1;
+  width:150px;
+  height: 150px;
+}
+
+.radioco-bg{
+  margin-top: -99px;
+  margin-left: -29px;
+  -webkit-filter: blur(30px) brightness(0.6);
+  overflow: hidden;
+  width: 500px;
+  position: relative;
+  left: 70px;
+  top: -180px;
+}
+
+.radioco-information{
+  display: block;
+  position: relative;
+  width: 340px;
+  color:#fff;
+  z-index: 1;
+  float: right;
+  top:13px;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+
+.radioco-information span{
+  display:block;
+}
+
+.radioco-information input[type="range"]{
+    background: rgba(255,255,255,0.3);
+  width: 100px;
+  display: block;
+  height: 4px;
+  -webkit-appearance: none;
+  -webkit-border-radius: 8px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: -webkit-grab;
+  outline: 0;
+   }
+
+.radioco-information input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  border: none;
+  width:15px;
+  height:15px;
+  border-radius: 10px;
+  background: #ffffff;
+  -webkit-transition: box-shadow 0.2s;
+
+}
+.radioco-information input[type=range]::-webkit-slider-thumb:hover {
+  box-shadow:#fff 1px 1px 20px;
+}
+
+.radioco-information input[type=range]:active, .information input[type=range]:focus {
+  outline: 0;
+}
+
+.radioco-elapsedTime{
+  opacity:0.4;
+  font-size:14px;
+}
