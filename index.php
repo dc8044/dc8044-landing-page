@@ -9,8 +9,8 @@
 
     <title>DC8044</title>
 
-    <link href="wp-content/themes/dc8044/bootstrap.min.css" rel="stylesheet">
     <link href="wp-content/themes/dc8044/style.css" rel="stylesheet">
+    <link href="wp-content/themes/dc8044/radio.css" rel="stylesheet">
 </head>
 
 <body>
@@ -19,7 +19,7 @@
 <main role="main" class="main_container inner cover">
     <img src="wp-content/themes/dc8044/LOGO_GLITCHED.png" alt="" class="img-fluid main_img">
 
-    <div id=glitch">
+    <div id="glitch">
         <div class="glitch-msg cover-heading hacked hacked-title">DC8044_Kyiv
             <div class="glitch-msg-eff">DC8044_Kyiv</div>
         </div>
@@ -28,7 +28,8 @@
     <p class="lead hacked hacked-social">
         <a href="https://www.facebook.com/DC8044/">Facebook</a> | <a
             href="https://twitter.com/DC8044_Cr3w">Twitter</a> | <a href="https://t.me/DC8044">Telegram</a> | <a
-            href="https://github.com/dc8044">Github</a> |  <a href="guide.php">Guide</a>
+            href="https://github.com/dc8044">Github</a> |  <a href="guide.php">Guide</a> |  <a
+            href="radio.php">Radio "44WAV-E"</a>
     </p>
 
 </main>
